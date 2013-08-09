@@ -1,0 +1,20 @@
+{
+  "name": "emailbox-attached",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.3",
+    "jade": "*",
+    "memcached" : "0.2.4",
+    "generic-pool" : "*",
+    "mysql" : "*",
+    "path" : "*",
+    "q" : "*",
+    "stylus" : "*",
+    "validator" : "*",
+    "request" : "2.26.0"
+  }
+}
