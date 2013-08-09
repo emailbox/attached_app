@@ -1,0 +1,19 @@
+{
+    "name": "Attached",
+    "package": "pkg.dev.attached",
+    "description": "Organize and share your attached files",
+    "plain_permissions": "",
+    "permissions": {
+        "read": {},
+        "write": {},
+        "storage": false,
+        "events": {
+            "emit": [],
+            "listen": {}
+        }
+    },
+    "dependencies": ["pkg.native.email"],
+    "plan": "",
+    "coupon": "",
+    "indexes": {}
+}
